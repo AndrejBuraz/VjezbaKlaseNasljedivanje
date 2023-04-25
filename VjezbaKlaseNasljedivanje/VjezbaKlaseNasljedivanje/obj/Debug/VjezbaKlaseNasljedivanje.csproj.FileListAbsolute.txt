@@ -1,0 +1,8 @@
+C:\Users\HP\source\repos\VjezbaKlaseNasljedivanje\VjezbaKlaseNasljedivanje\obj\Debug\VjezbaKlaseNasljedivanje.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\VjezbaKlaseNasljedivanje\VjezbaKlaseNasljedivanje\obj\Debug\VjezbaKlaseNasljedivanje.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\source\repos\VjezbaKlaseNasljedivanje\VjezbaKlaseNasljedivanje\obj\Debug\VjezbaKlaseNasljedivanje.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\VjezbaKlaseNasljedivanje\VjezbaKlaseNasljedivanje\bin\Debug\VjezbaKlaseNasljedivanje.exe.config
+C:\Users\HP\source\repos\VjezbaKlaseNasljedivanje\VjezbaKlaseNasljedivanje\bin\Debug\VjezbaKlaseNasljedivanje.exe
+C:\Users\HP\source\repos\VjezbaKlaseNasljedivanje\VjezbaKlaseNasljedivanje\bin\Debug\VjezbaKlaseNasljedivanje.pdb
+C:\Users\HP\source\repos\VjezbaKlaseNasljedivanje\VjezbaKlaseNasljedivanje\obj\Debug\VjezbaKlaseNasljedivanje.exe
+C:\Users\HP\source\repos\VjezbaKlaseNasljedivanje\VjezbaKlaseNasljedivanje\obj\Debug\VjezbaKlaseNasljedivanje.pdb
